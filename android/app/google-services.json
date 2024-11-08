@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257952860973",
+    "project_id": "magixcart",
+    "storage_bucket": "magixcart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257952860973:android:0ca03d348860914ff1a1a4",
+        "android_client_info": {
+          "package_name": "com.example.magixcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaCp-1kQb5yJwe14yFuRIJQiWCrHTLtnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
